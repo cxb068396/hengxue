@@ -1,0 +1,10 @@
+### bindMember
+post http://localhost/admin/index/bind_member
+Content-Type: application/json
+
+{
+  "client_id": "7f00000108fc0000004b",
+  "first_page": "",
+  "source": 1,
+  "source_page": "/home"
+}
